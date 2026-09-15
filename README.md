@@ -12,10 +12,10 @@
 
 ## 🧠 About Me
 
-- 🧩 **Founding Product Manager at [Cortex AI](https://withcortex.ai)** — improving first-task activation, agent evaluation, recovery, and connected-tool workflows.
-- 🐾 **AI Product Manager consultant at [WoafyPet](https://woafy.pet)** — AI + IoT pet care, including an AI marketing agent and data-grounded recommendations.
-- 🎬 **Previously at Onceness** — led 0→1 work on guided AI video generation for small businesses.
-- 🎨 **Design background** — built an internal image-generation platform at 5+Design; earned an M.S. in Architecture from UCLA.
+- **Founding Product Manager at [Cortex AI](https://withcortex.ai)** — improving first-task activation, agent evaluation, recovery, and connected-tool workflows.
+- **AI Product Manager consultant at [WoafyPet](https://woafy.pet)** — AI + IoT pet care, including an AI marketing agent and data-grounded recommendations.
+- **Previously at Onceness** — led 0→1 work on guided AI video generation for small businesses.
+- **Design background** — built an internal image-generation platform at 5+Design; earned an M.S. in Architecture from UCLA.
 
 ## 🏆 Startup Journey
 
