@@ -1,27 +1,21 @@
-![Irene Ye — AIGC and enterprise AI workflows](assets/profile-banner-v2.svg)
+# Hi, I'm Irene (Yiran) Ye
 
-### Hi, I'm Irene (Yiran) Ye.
+**AI Product Manager · AIGC · Enterprise AI Workflows**
 
-I'm an **AI Product Manager focused on AIGC and enterprise AI workflows**. I turn open-ended AI capabilities into structured products that help people complete real work—where reliability, user control, and business value matter as much as model quality.
+I build AI products that turn new capabilities into workflows people can actually use.
 
-My path started in design and has grown into **4+ years building AI products** across creative tools, generative media, and desktop agents.
+## About Me
 
-[**Portfolio & case studies →**](https://yiranye.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/yiranye08/) &nbsp;·&nbsp; [Email](mailto:08ireneye@gmail.com)
+- **Current:** Founding Product Manager at Cortex AI, working on desktop agents and connected-tool workflows.
+- **Background:** 4+ years in AI product work, with a foundation in design.
+- **Focus:** Generative media, agent usability, and evaluating whether AI workflows help people complete real tasks.
 
----
+## Product Work
 
-### Where I've applied this thinking
+| Product | Area | My work |
+| --- | --- | --- |
+| **Cortex AI** | Enterprise AI workflows | First-task activation, recovery flows, agent evaluation, and tool-connected workflows. |
+| **Onceness** | AIGC for commerce | Led 0→1 product work on guided AI video generation for small businesses. |
+| **5+Design** | Creative AI | Helped build an internal image-generation workflow for design teams. |
 
-- **Enterprise AI workflows · [Cortex AI](https://withcortex.ai)** — As Founding Product Manager, I work on a desktop AI agent for productivity: agent evaluation, first-task activation, recovery flows, and connected tool workflows.
-- **AIGC for commerce · Onceness** — I led 0→1 product work on AI video generation for small businesses, shaping a guided path from vague creative intent to usable output.
-- **Creative AI at work · 5+Design** — I helped build an internal image-generation workflow for design teams, connecting model capabilities to a repeatable creative process.
-
-### Explore the work
-
-- [**Worlding AI product case study**](https://yiranye.vercel.app/ai-product-launch) — A product exploration of computer-vision-assisted ad creation, from user flow to acceptance criteria.
-- [**LegalGuard**](https://github.com/IreneYe08/LegalGuard) — A privacy-minded Chrome extension prototype that makes online terms easier to understand.
-- [**file-organization**](https://github.com/IreneYe08/file-organization) — A reusable agent skill for organizing files and keeping workspaces maintainable.
-
-**My product lens:** user intent → task design → model and tool orchestration → evaluation → a usable outcome.
-
-If you're building AI that needs to work beyond the demo, [let's connect](https://www.linkedin.com/in/yiranye08/).
+[Portfolio & case studies](https://yiranye.vercel.app) · [LinkedIn](https://www.linkedin.com/in/yiranye08/) · [Email](mailto:08ireneye@gmail.com)
