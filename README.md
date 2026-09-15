@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://yiranye.vercel.app">
-    <img alt="Founding Product Manager at Cortex AI; enterprise AI workflows; AIGC for commerce" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=19&amp;duration=3500&amp;pause=1100&amp;color=6F42C1&amp;center=true&amp;vCenter=true&amp;width=540&amp;height=45&amp;lines=Founding+Product+Manager+at+Cortex+AI;Enterprise+AI+workflows;AIGC+for+commerce" />
+    <img alt="Founding PM at Cortex AI; enterprise AI workflows; AIGC for commerce" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=21&amp;duration=3500&amp;pause=1100&amp;color=6F42C1&amp;center=true&amp;vCenter=true&amp;width=380&amp;height=48&amp;lines=Founding+PM+at+Cortex+AI;Enterprise+AI+workflows;AIGC+for+commerce" />
   </a>
 </p>
 
@@ -21,9 +21,9 @@
 
 | Venture | Type | My role | Product |
 | --- | --- | --- | --- |
-| [Cortex AI](https://withcortex.ai) | B2B | Founding Product Manager · current | Desktop agent for enterprise work |
-| [WoafyPet](https://woafy.pet) | B2C | AI Product Manager consultant | AI + IoT pet health |
-| Onceness | B2B | AI Product Manager consultant | AIGC video for small businesses |
+| [Cortex AI](https://withcortex.ai) | B2B | Founding PM · now | Desktop AI agent |
+| [WoafyPet](https://woafy.pet) | B2C | AI PM consultant | AI + IoT pet care |
+| Onceness | B2B | AI PM consultant | AI video for SMBs |
 
 ## 🔥 GitHub Activity
 
