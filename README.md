@@ -14,7 +14,7 @@
 
 - **Founding Product Manager at [Cortex AI](https://withcortex.ai)** — improving first-task activation, agent evaluation, recovery, and connected-tool workflows.
 - **AI Product Manager consultant at [WoafyPet](https://woafy.pet)** — led 0→1 development of an internal AI marketing agent for creative production and ad iteration.
-- **Previously at Onceness** — led 0→1 work on guided AI video generation for small businesses.
+- **Previously at [Onceness](https://yiranye.vercel.app/ai-product-launch)** — led 0→1 work on guided AI video generation for small businesses.
 - **Design background** — built an internal image-generation platform at 5+Design; earned an M.S. in Architecture from UCLA.
 
 ## 🏆 Startup Journey
@@ -23,7 +23,7 @@
 | --- | --- | --- | --- |
 | [Cortex AI](https://withcortex.ai) | B2B | Founding PM · now | Agent activation and evaluation |
 | [WoafyPet](https://woafy.pet) | B2C | AI PM consultant | Internal AI marketing agent |
-| Onceness | B2B | AI PM consultant | Guided AI video generation |
+| [Onceness](https://yiranye.vercel.app/ai-product-launch) | B2B | AI PM consultant | Guided AI video generation |
 
 ## 🔥 GitHub Activity
 
