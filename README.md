@@ -1,34 +1,27 @@
-# Hi, I'm Irene (Yiran) Ye 👋
+![Irene Ye — AIGC and enterprise AI workflows](assets/profile-banner.svg)
 
-### AI Product Manager · 0→1 builder · design-minded thinker
+### Hi, I'm Irene (Yiran) Ye.
 
-I turn ambiguous ideas into products people can actually use. With **3+ years in product management** and a background in design, I work across user research, product strategy, prototyping, and launch—especially where **AI meets everyday experiences**.
+I'm an **AI Product Manager focused on AIGC and enterprise AI workflows**. I turn open-ended AI capabilities into structured products that help people complete real work—where reliability, user control, and business value matter as much as model quality.
 
-[Portfolio & case studies](https://yiranye.vercel.app) · [LinkedIn](https://www.linkedin.com/in/yiranye08/) · [Email](mailto:08ireneye@gmail.com)
+My path started in design and has grown into **4+ years building AI products** across creative tools, generative media, and desktop agents.
 
----
-
-### What I focus on
-
-| Product thinking | Hands-on building | Current interests |
-| :--- | :--- | :--- |
-| Finding the user problem, defining the MVP, and making trade-offs visible. | Turning product ideas into working prototypes and clear specifications. | Applied AI, computer vision, human-centered design, and useful agent workflows. |
-
-### Selected work
-
-| Project | The problem and my approach |
-| :--- | :--- |
-| [**LegalGuard**](https://github.com/IreneYe08/LegalGuard) | A Chrome extension prototype that helps people spot and understand consequential clauses in online terms. I led the product direction, UX, and frontend work, with an emphasis on on-device AI and privacy. |
-| [**CozyMind-AI**](https://github.com/IreneYe08/CozyMind-AI) | A mobile-first room design prototype that lets people visualize changes to a real space. It explores the path from a room photo to an AI-assisted design. [Watch the demo](https://drive.google.com/file/d/1G1Pu2tLAqefuAeCiwQ34zT8PBcBkpZEg/view). |
-| [**Worlding AI product case study**](https://yiranye.vercel.app/ai-product-launch) | A 0→1 product exploration for computer-vision-assisted ad creation. The case study shows how I translate a complex opportunity into user stories, product flows, and acceptance criteria. |
-| [**file-organization**](https://github.com/IreneYe08/file-organization) | A reusable agent skill for keeping project files organized, from naming and folder structure to ongoing maintenance. |
-
-### How I work
-
-**Understand the user → frame the opportunity → define the smallest useful product → prototype → test and iterate.**
-
-I use GitHub to share the prototypes, product decisions, and tools behind that process. You can explore the projects above or see the contribution history below.
+[**Portfolio & case studies →**](https://yiranye.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/yiranye08/) &nbsp;·&nbsp; [Email](mailto:08ireneye@gmail.com)
 
 ---
 
-If you're building a thoughtful AI product, [let's connect](https://www.linkedin.com/in/yiranye08/).
+### Where I've applied this thinking
+
+- **Enterprise AI workflows · [Cortex AI](https://withcortex.ai)** — As Founding Product Manager, I work on a desktop AI agent for productivity: agent evaluation, first-task activation, recovery flows, and connected tool workflows.
+- **AIGC for commerce · Onceness** — I led 0→1 product work on AI video generation for small businesses, shaping a guided path from vague creative intent to usable output.
+- **Creative AI at work · 5+Design** — I helped build an internal image-generation workflow for design teams, connecting model capabilities to a repeatable creative process.
+
+### Explore the work
+
+- [**Worlding AI product case study**](https://yiranye.vercel.app/ai-product-launch) — A product exploration of computer-vision-assisted ad creation, from user flow to acceptance criteria.
+- [**LegalGuard**](https://github.com/IreneYe08/LegalGuard) — A privacy-minded Chrome extension prototype that makes online terms easier to understand.
+- [**file-organization**](https://github.com/IreneYe08/file-organization) — A reusable agent skill for organizing files and keeping workspaces maintainable.
+
+**My product lens:** user intent → task design → model and tool orchestration → evaluation → a usable outcome.
+
+If you're building AI that needs to work beyond the demo, [let's connect](https://www.linkedin.com/in/yiranye08/).
