@@ -1,4 +1,4 @@
-![Irene Ye — AIGC and enterprise AI workflows](assets/profile-banner.svg)
+![Irene Ye — AIGC and enterprise AI workflows](assets/profile-banner-v2.svg)
 
 ### Hi, I'm Irene (Yiran) Ye.
 
