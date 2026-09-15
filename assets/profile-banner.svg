@@ -1,22 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
   <title id="title">Irene Ye — AIGC and enterprise AI workflows</title>
-  <desc id="desc">A dark blue banner with Irene Ye's name and a three-stage workflow: intent, orchestration, outcome.</desc>
-  <rect width="1200" height="280" rx="16" fill="#14213D"/>
-  <path d="M0 218H1200" stroke="#354668" stroke-width="1"/>
-  <path d="M38 0V280M664 0V280" stroke="#354668" stroke-width="1" opacity=".55"/>
-  <rect x="70" y="54" width="88" height="6" rx="3" fill="#72D6D1"/>
-  <text x="70" y="132" fill="#F5F7FC" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">IRENE YE</text>
-  <text x="72" y="177" fill="#AEBEE0" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="1.2">AI PRODUCT MANAGER</text>
-  <text x="72" y="245" fill="#72D6D1" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600">AIGC  /  ENTERPRISE AI WORKFLOWS</text>
-  <path d="M734 119H1097" stroke="#6582AC" stroke-width="3" stroke-linecap="round"/>
-  <path d="M736 119L747 109M736 119L747 129M917 119L928 109M917 119L928 129M1096 119L1085 109M1096 119L1085 129" stroke="#6582AC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="736" cy="119" r="24" fill="#203858" stroke="#72D6D1" stroke-width="3"/>
-  <circle cx="917" cy="119" r="24" fill="#203858" stroke="#9DAEF4" stroke-width="3"/>
-  <circle cx="1096" cy="119" r="24" fill="#203858" stroke="#72D6D1" stroke-width="3"/>
-  <circle cx="736" cy="119" r="6" fill="#72D6D1"/>
-  <rect x="910" y="112" width="14" height="14" rx="3" fill="#9DAEF4"/>
-  <path d="M1088 119L1094 125L1105 112" fill="none" stroke="#72D6D1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="736" y="181" text-anchor="middle" fill="#D5DEF0" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2">INTENT</text>
-  <text x="917" y="181" text-anchor="middle" fill="#D5DEF0" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2">ORCHESTRATION</text>
-  <text x="1096" y="181" text-anchor="middle" fill="#D5DEF0" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2">OUTCOME</text>
+  <desc id="desc">A dark blue banner with Irene Ye's name and a three-stage workflow.</desc>
+  <rect width="1200" height="330" rx="16" fill="#14213D"/>
+  <path d="M0 270H1200" stroke="#354668" stroke-width="1"/>
+  <path d="M38 0V330M774 0V330" stroke="#354668" stroke-width="1" opacity=".55"/>
+  <rect x="70" y="58" width="106" height="7" rx="3.5" fill="#72D6D1"/>
+  <text x="70" y="160" fill="#F5F7FC" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700" letter-spacing="-2">IRENE YE</text>
+  <text x="74" y="226" fill="#72D6D1" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="600">AIGC  /  ENTERPRISE AI WORKFLOWS</text>
+  <text x="74" y="305" fill="#BFD0EB" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="1">AI PRODUCT MANAGER</text>
+  <path d="M846 134H1112" stroke="#6D8AB5" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="846" cy="134" r="30" fill="#203858" stroke="#72D6D1" stroke-width="4"/>
+  <circle cx="979" cy="134" r="30" fill="#203858" stroke="#9DAEF4" stroke-width="4"/>
+  <circle cx="1112" cy="134" r="30" fill="#203858" stroke="#72D6D1" stroke-width="4"/>
+  <circle cx="846" cy="134" r="8" fill="#72D6D1"/>
+  <rect x="971" y="126" width="16" height="16" rx="3" fill="#9DAEF4"/>
+  <path d="M1102 134L1109 142L1123 126" fill="none" stroke="#72D6D1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M846 181V213M979 181V213M1112 181V213" stroke="#6D8AB5" stroke-width="2"/>
+  <circle cx="846" cy="218" r="4" fill="#72D6D1"/>
+  <circle cx="979" cy="218" r="4" fill="#9DAEF4"/>
+  <circle cx="1112" cy="218" r="4" fill="#72D6D1"/>
 </svg>
